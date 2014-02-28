@@ -10,7 +10,7 @@ There we go. I made this jQuery plugin for you :)
 
 How to use it
 ==============
-*Lucky for you, implementation is really simple.*
+*Lucky for you, implementation is really simple.*<br>
 1. Load jQuery
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -25,7 +25,7 @@ That's basically it :)
 
 Settings
 ==============
-bass an array of object as follow structure
+Setup an array of object as follow structure
 
 var settings = {
   maxPhones: 20,
@@ -37,7 +37,8 @@ var settings = {
   appearTime: 2
 }
 
-into function
+Then pass it as an argument
+
 $('body').rainingPhones(settings);
 
 # What're you waiting for??? It's time to get your favourite phone!!!

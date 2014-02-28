@@ -1,6 +1,6 @@
 Raining-phones
 ==============
-Have you seen the movie 'Cloudy with a Chance of Meatballs'?
+Have you seen the movie "Cloudy with a Chance of Meatballs"?
 
 Ever wonder if there is a raining phones so that every one can get a free phone? ***You heard right, folks...* FREE!!!** 
 
@@ -28,14 +28,22 @@ Settings
 Setup an array of object as follow structure
 
 var settings = {
+
   maxPhones: 20,
+  
   // In sec
+  
   spawingGap: 0.1,
+  
   // In pixel
+  
   height: 700,
+  
   // In sec
+  
   appearTime: 2
-}
+  
+};
 
 Then pass it as an argument
 

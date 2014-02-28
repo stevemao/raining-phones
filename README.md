@@ -10,9 +10,9 @@ There we go. I made this jQuery plugin for you :)
 
 How to use it
 ==============
-*Lucky for you, implementation is really simple.*<br>
-1. Load jQuery
+*Lucky for you, implementation is really simple.*
 
+1. Load jQuery
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 2. Load rainingPhones.js

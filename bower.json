@@ -1,0 +1,30 @@
+{
+  "name": "raining-phones",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stevemao/raining-phones",
+  "authors": [
+    "Steve Mao <steve.mao@healthinteract.com.au>"
+  ],
+  "description": "A jQuery plugin to generate Raining phones",
+  "main": "raining-phones/scripts/rainingPhones.js",
+  "keywords": [
+    "A",
+    "jQuery",
+    "plugin",
+    "to",
+    "generate",
+    "Raining",
+    "phones"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
